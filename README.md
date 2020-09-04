@@ -1,6 +1,6 @@
 # Stringarrange
 
-Stringarrange is an application that will prompt for a user to input a string. Using the user’s inputted string, find the first letter that is not repeated.
+Stringarrange is an application that will users to input a string. Using the user’s inputted string, it will rearrange the string in order of occurrence and order from the inputted string.
 
 >For example: If given the string ‘Bubble’, the letter ‘u’ would be the first character returned from the program. Once the first character is found and displayed back to the user, rewrite the string in order of number of occurrences and order from the inputted string. In the above example ‘Bubble’ would then be rewritten as ‘uleBbb’. Display this to the user.
 
